@@ -16,7 +16,7 @@ If you have expertise in this   area, your  insights would be valuable.**
 
 - 💬 Ask me about **the opportunities in the field of Full stack developnemnt .**
 
-- 📫 How to reach me **You can contact me via email at [niteshdk11@example.com] or connect with me on LinkedIn at [https://www.linkedin.com/in/nitesh-dk]**
+- 📫 How to reach me **You can contact me via email at [niteshdk11@gmail.com] or connect with me on LinkedIn at [https://www.linkedin.com/in/nitesh-dk]**
 
 - ⚡ Fun fact **I have a habit of giving my code variables and functions playful and sometimes quirky names.  It makes debugging more enjoyable and adds a touch of whimsy to my coding journey!**
 
