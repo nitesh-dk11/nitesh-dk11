@@ -11,14 +11,14 @@
 - 🌱 I’m currently learning **SQL and databases for Website building , manage data persistence.**
 
 - 👯 I’m looking to collaborate on **Open-source development projects related to web development , Web services .**
-- 🤝 I’m looking for help with **Staying up-to-date with the latest advancements in web   <br> and data security , machine learning ,
+- 🤝 I’m looking for help with **Staying up-to-date with the latest advancements in web    and data security , machine learning ,
 If you have expertise in this   area, your  insights would be valuable.**
 
 - 💬 Ask me about **the opportunities in the field of Full stack developnemnt .**
 
 - 📫 How to reach me **You can contact me via email at [niteshdk11@example.com] or connect with me on LinkedIn at [https://www.linkedin.com/in/nitesh-dk]**
 
-- ⚡ Fun fact **I have a habit of giving my code variables and functions playful and sometimes quirky names. <br> It makes debugging more enjoyable and adds a touch of whimsy to my coding journey!**
+- ⚡ Fun fact **I have a habit of giving my code variables and functions playful and sometimes quirky names.  It makes debugging more enjoyable and adds a touch of whimsy to my coding journey!**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-dk) 
