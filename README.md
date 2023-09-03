@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **SQL and databases for Website building , manage data persistence.**
 
 - 👯 I’m looking to collaborate on **Open-source development projects related to web development , Web services .**
-- 🤝 I’m looking for help with **Staying up-to-date with the latest advancements in web and data security , machine learning , <br>
+- 🤝 I’m looking for help with **Staying up-to-date with the latest advancements in web and  <br> data security , machine learning ,
 If you have expertise in this area, your insights would be valuable.**
 
 - 💬 Ask me about **the opportunities in the field of Full stack developnemnt .**
