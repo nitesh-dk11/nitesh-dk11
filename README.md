@@ -6,12 +6,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=nitesh-dk11&icon=7&color=1)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Developing projects based on javascript**
+- 🔭 I’m currently working on **Developing projects  of 3D Modern Websites**
 
-- 🌱 I’m currently learning **SQL and databases for Website building , manage data persistence.**
+- 🌱 I’m currently learning **React , Gsap , Locomotive js , Scrolltrigger**
 
 - 👯 I’m looking to collaborate on **Open-source development projects related to web development , Web services .**
-- 🤝 I’m looking for help with **Staying up-to-date with the latest advancements in web    and data security , machine learning ,
+- 🤝 I’m looking for help with **Staying up-to-date with the latest advancements in web  Developement  ,Advace Web animation  and Web security ,
 If you have expertise in this   area, your  insights would be valuable.**
 
 - 💬 Ask me about **the opportunities in the field of Full stack developnemnt .**
