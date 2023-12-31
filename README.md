@@ -1,4 +1,4 @@
-![logo](https://github.com/nitesh-dk11/nitesh-dk11/blob/main/banner.png)
+![logo](https://github.com/nitesh-dk11/nitesh-dk11/blob/de5f02c71f0ed7a3662bc1b205d75633f43348a6/lbg_auto_x2.jpg)
 
 
 <h3 align="center">"Full Stack Developers: Pioneers of Innovation in Tech"</h3>
